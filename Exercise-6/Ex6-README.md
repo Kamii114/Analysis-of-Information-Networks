@@ -8,7 +8,7 @@ The objective of this exercise is to analyze a rating matrix representing rating
 
 ### Rating Matrix
 
-![Rating Matrix]("E:\Github\Analysis of Information Networks\Analysis-of-Information-Networks\Exercise-7\RatingMatrix.png".png)
+![Rating Matrix](Exercise-6/RatingMatrix.png)
 
 ## Tasks
 
