@@ -8,7 +8,7 @@ The objective of this exercise is to analyze a rating matrix representing rating
 
 ### Rating Matrix
 
-![Rating Matrix](Exercise-6/RatingMatrix.png)
+![Rating Matrix](RatingMatrix.png)
 
 ## Tasks
 
