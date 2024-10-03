@@ -23,3 +23,6 @@ In this exercise, you will calculate three metrics for link prediction within th
 - A comprehensive report detailing the calculated metrics for each node pair.
 - An analysis of the decision tree model's accuracy, including the overall error rate.
 - A focused examination of one misclassified link, providing insights based on the link prediction metrics.
+
+### References:
+The Zachary Club Network dataset is a widely used social network dataset that models relationships among members of a karate club.
