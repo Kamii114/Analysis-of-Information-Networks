@@ -32,3 +32,6 @@ Kolokolnikov, T. and Iron, D. (2021). “Law of mass action and saturation in SI
 - **Second Moment** $\langle k^2 \rangle$
 - **Characteristic Times** $T_{SI}$, $T_{SIS}$, $T_{SIR}$
 - **Epidemic Thresholds** $\lambda$, $\lambda_{c_{SIS}}$, $\lambda_{c_{SIR}}$
+
+### References:
+The Zachary Club Network dataset is a widely used social network dataset that models relationships among members of a karate club.
