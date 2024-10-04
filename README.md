@@ -1,4 +1,4 @@
-# Analysis of Information Networks
+# Analysis of Information Networks 
 
 ## Overview
 
