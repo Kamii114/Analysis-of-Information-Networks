@@ -1,6 +1,6 @@
 # Import libraries and modules
 import numpy as np
-# *********************************************************part (a) and (b)**********************************************************************************************************************************************
+# *********************************************************part (1) and (2)**********************************************************************************************************************************************
 # Define the three lists as rows
 row1 = [4, 5, 0, 5, 1, 0, 3, 2]
 row2 = [0, 3, 4, 3, 1, 2, 1, 0]
@@ -42,7 +42,7 @@ for i in range(3):
             print(f"({i}, {j}), cosine_similarity for initial matrix : ", cosine_similarity(initial_matrix[i], initial_matrix[j]), " jaccard_distance for initial matrix : ", jaccard_distance(initial_matrix[i], initial_matrix[j]))
             print()  
 
-# **************************************************part (c) and (d)***********************************************************************************************************************************************
+# **************************************************part (3) and (4)***********************************************************************************************************************************************
 # Change elements of matrix based on the condition:
 modified_matrix = np.where(initial_matrix >= 3, 1, 0)
 
@@ -62,7 +62,7 @@ for i in range(3):
             print(f"({i}, {j}), cosine_similarity for modified matrix : ", cosine_similarity(modified_matrix[i], modified_matrix[j]), " jaccard_distance for modified matrix : ", jaccard_distance(modified_matrix[i], modified_matrix[j]))
             print()  
 
-# **************************************************part (e) and (f)***********************************************************************************************************************************************
+# **************************************************part (5) and (6)***********************************************************************************************************************************************
 # Normalize the matrix by subtracting the average value for each row
 normalized_matrix = np.copy(initial_matrix)  # Create a copy of the initial matrix
 
